@@ -1,0 +1,21 @@
+{
+  "links": {
+    "website": "https://wraptag.io"
+  },
+  "id": "A1iV86hr1toCL7y4F6PM263n9fomCLUDDwpqFT2sG9FTCZJCm",
+  "name": "WrapTag",
+  "primaryColor": "#f7931a",
+  "logo": "https://cdn.snowpeer.io/wraptag.png",
+  "categories": [
+    "IP"
+  ],
+  "mainCategory": "IP",
+  "chains": [
+    {
+      "id": "21Z7pN9Z6VfmMo8jjhDQYyYJS5MB7MftZSuKrmenhmwADCWWJH",
+      "name": "WrapTag",
+      "vmId": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy",
+      "vmName": null
+    }
+  ]
+}

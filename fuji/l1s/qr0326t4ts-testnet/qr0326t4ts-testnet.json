@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "2hdzHnmzkpbzcvu2pj83m8Kwnv8tTE4iQuRD5sGraztA4oJvNS",
+  "name": "QR0326T4TS Testnet",
+  "description": "QA Testing",
+  "chains": [
+    {
+      "id": "KFo2G2ZywEHftpxhTVJuGZQah6P9GQLz3kEsA1QFbCC8dNMf5",
+      "name": "QR0326T4TSTestnet",
+      "vmId": "cpEkMdomxdwsTRTTGZuxCsziZmQ2Ke9NkDsjAYaEpzfVoTm7y",
+      "vmName": "EVM"
+    }
+  ]
+}

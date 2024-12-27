@@ -1,0 +1,17 @@
+{
+  "links": {
+    "website": "https://www.subnets.io"
+  },
+  "id": "dwWfVQ5dgYMeWTuP6JB4xevQmVw4MmHKLFUeHAUoMNV9v5cHp",
+  "name": "SubnetsIO",
+  "primaryColor": "#ff3c74",
+  "logo": "https://cdn.snowpeer.io/subnetsio.jpg",
+  "chains": [
+    {
+      "id": "2B8Q1rbfrDTAFtizaZC9Wzqt1GGV9yHL5AtYQ5H7joo4Jw8YMc",
+      "name": "subnetsio",
+      "vmId": "srEXiWaHxVVXht5yphBuxuGKZGSsJwkQrwFcyCiKtMTRFWmJR",
+      "vmName": null
+    }
+  ]
+}

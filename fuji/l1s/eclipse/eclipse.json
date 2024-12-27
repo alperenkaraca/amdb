@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "2aNty5ysymeQkSRj6PN4U8U3zMfeedBEvVJuwMjqQS87sQ6mRR",
+  "name": "Eclipse",
+  "description": "The Eclipse Network is a dedicated Gaming EVM Subnet designed to empower game developers in creating vibrant in-game economies through Non-Fungible Tokens (NFTs) and token rewards. Our mission is to facilitate seamless integration with fast and cost-effective transactions while providing easy onboarding for both web2 and web3 game developers.",
+  "chains": [
+    {
+      "id": "2pautDSNwJjAet3g2Fiv62VyLCzEQoW2pptyPxhvs9bfETo3ir",
+      "name": "ThorFi",
+      "vmId": "mDV3QWRXfwgKUWb9sggkv4vQxAQR4y2CyKrt5pLZ5SzQ7EHBv",
+      "vmName": "EVM"
+    }
+  ]
+}

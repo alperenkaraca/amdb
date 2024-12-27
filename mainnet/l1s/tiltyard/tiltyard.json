@@ -1,0 +1,37 @@
+{
+  "links": {
+    "website": "https://tiltyard.gg",
+    "git": "https://tiltyard.gitbook.io/midnight-heist",
+    "socials": [
+      {
+        "name": "X",
+        "url": "https://x.com/tiltyard_gg"
+      },
+      {
+        "name": "Discord",
+        "url": "https://discord.gg/tiltyard"
+      }
+    ]
+  },
+  "id": "23LsHpx3wTPtNC4PUaTdtNQkaGbLxwiGimnZjHaUc28qLHs7Dn",
+  "name": "Tiltyard",
+  "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+  "primaryColor": "#6a49d2",
+  "logo": "https://cdn.snowpeer.io/tiltyard.png",
+  "categories": [
+    "GAMING"
+  ],
+  "mainCategory": "GAMING",
+  "chains": [
+    {
+      "evmId": "710420",
+      "rpcUrl": "https://subnets.avax.network/tiltyard/mainnet/rpc",
+      "description": "Welcome to Tiltyard, a blockchain game studio forging futuristic landscapes and decentralized adventures.",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/tiltyard",
+      "id": "2cJ7FyNoqigEGoM7m8p4PY7a33B2SQxV8P7VuUVJZ9y5otyqNS",
+      "name": "Tiltyard",
+      "vmId": "eBBp8MuVsdcUj8MioApg74QTiBJdGfNPyVAVHKYJVvfxMAFQj"
+    }
+  ]
+}

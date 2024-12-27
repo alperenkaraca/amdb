@@ -1,0 +1,22 @@
+{
+  "links": {
+    "website": "https://step.network"
+  },
+  "id": "7f9jciLEX25NPJEaAz1X7XF44B1Q9UBwq6PdnCHm5mnUq1e1C",
+  "name": "Step Network",
+  "description": "STEP PROTOCOL IS A NETWORK FOR LIFE, NOT TRADING ALGORITHMS: A NETWORK FOR HUMANITY’S PURSUIT OF LIFESTYLE, FITNESS, AND CONSUMPTION",
+  "primaryColor": "#f9d549",
+  "logo": "https://cdn.snowpeer.io/step.png",
+  "categories": [
+    "SPORT"
+  ],
+  "mainCategory": "SPORT",
+  "chains": [
+    {
+      "id": "2jRZvKtXY5nyWTqRwFh1KMHGrCRxJoULu4r2CsayWRnjdDGbV1",
+      "name": "StepNetwork",
+      "vmId": "dkjnKTbCTozMmvJJETzrz8sYVs7vSKzkGShHoa493UcQEweU6",
+      "vmName": "EVM"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "2UFUBxhK9RPzDmb5CaTpsUzNgzrzzJLcf6oe1Q739kcNvz8YAY",
+  "name": "Mintara",
+  "description": "Testnet for Mintara.",
+  "chains": [
+    {
+      "id": "TCqVN6eFgMuhiqwVdvizNCjZgtnk5UhkbqqWe6EWgAhhxUaoV",
+      "name": "mintara",
+      "vmId": "qBnANjFRAUssEi9jfjviksjMrcZvcKMAPZtR9WDPivwW8G9PY",
+      "vmName": "EVM"
+    }
+  ]
+}

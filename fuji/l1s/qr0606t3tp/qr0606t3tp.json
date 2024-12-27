@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "mUKpAkagxejna1REJTVGCZ8tXWcctXJVitJ5AFv7zfMvasGNY",
+  "name": "QR0606T3TP",
+  "description": "QR0606T3TP",
+  "chains": [
+    {
+      "id": "rtLueJ1R8vQ7yGe3QdveWJB1VAnvusy6PPp7TrA5suhUmgbnB",
+      "name": "QR0606T3TP",
+      "vmId": "cpEkNXMvFqH3N6JTAasjk7s5PUAzk6HTXjAjNAbDSNUm7q4wc",
+      "vmName": "EVM"
+    }
+  ]
+}

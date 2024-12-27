@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "KLzpc4ZTiU5qzSav6AgXMHZDgdgc5BVbtakoQHqZbSPex4W1T",
+  "name": "QR1205s1",
+  "description": "QR1205s1 explorer",
+  "chains": [
+    {
+      "id": "27XKknyBXKsaNvWsyBr6hAZy3nLzT5LE5itCGtFkWHhNGFSWLw",
+      "name": "QR1205s1",
+      "vmId": "cpEmfPDisq6118datGxcJrxQ5PYAEpMxtpLux7csAYuohtsp6",
+      "vmName": "EVM"
+    }
+  ]
+}

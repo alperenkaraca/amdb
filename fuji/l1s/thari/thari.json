@@ -1,0 +1,14 @@
+{
+  "links": {},
+  "id": "z3EjHgBLPXjhDqxyctpfQLJJGnAtMVKArhVqAMFjaMWhBJ1oC",
+  "name": "Thari",
+  "description": "Thari is a decentralized canvas for bridging the physical world with digital innovation. Every essence of reality, intricately mapped in a digital space.",
+  "chains": [
+    {
+      "id": "2nM4KfGNj1F8frQ1uCrUKfquZQHRq5ibVaKfhMSePHPMcAgbp4",
+      "name": "Thari",
+      "vmId": "eB5n2xoTLae2CjXMcp8viY95sGFJQxnw32YLo4fXB2BerrjSh",
+      "vmName": "EVM"
+    }
+  ]
+}
