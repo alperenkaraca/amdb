@@ -1,0 +1,17 @@
+{
+  "id": "fethi",
+  "type": "INFRA",
+  "name": "deneme",
+  "website": "alperenkaraca.com",
+  "description": "alperen",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    },
+    {
+      "id": "",
+      "name": "Satoshi Testnet"
+    }
+  ]
+}
