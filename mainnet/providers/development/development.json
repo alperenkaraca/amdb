@@ -1,0 +1,17 @@
+{
+  "id": "development",
+  "type": "INFRA",
+  "name": "alperen",
+  "website": "alperenkaraca.com",
+  "description": "yok ",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    },
+    {
+      "id": "",
+      "name": "Satoshi Testnet"
+    }
+  ]
+}
