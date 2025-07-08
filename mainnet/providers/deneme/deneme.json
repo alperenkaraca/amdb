@@ -1,0 +1,13 @@
+{
+  "id": "deneme",
+  "type": "INFRA",
+  "name": "alperen",
+  "website": "alp",
+  "description": "karaca",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    }
+  ]
+}
