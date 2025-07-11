@@ -1,0 +1,13 @@
+{
+  "id": "svg",
+  "type": "INFRA",
+  "name": "svg",
+  "website": "svg",
+  "description": "svg",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    }
+  ]
+}
