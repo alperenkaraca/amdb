@@ -1,0 +1,17 @@
+{
+  "id": "Fifa",
+  "type": "VALIDATOR",
+  "name": "fifa",
+  "website": "www.fifa.com",
+  "description": "fifa l1",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    },
+    {
+      "id": "",
+      "name": "Satoshi Testnet"
+    }
+  ]
+}
