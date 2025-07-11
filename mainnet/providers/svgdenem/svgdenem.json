@@ -1,0 +1,13 @@
+{
+  "id": "svgdenem",
+  "type": "INFRA",
+  "name": "svgdenem",
+  "website": "svbg",
+  "description": "deneme",
+  "associatedL1s": [
+    {
+      "id": "",
+      "name": "Avalanche Mainnet C-Chain"
+    }
+  ]
+}
