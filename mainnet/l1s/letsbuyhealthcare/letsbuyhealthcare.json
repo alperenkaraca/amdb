@@ -18,7 +18,6 @@
       "rpcUrl": "https://subnets.avax.network/letsbuyhc/mainnet/rpc"
     }
   ],
-  "assets": [],
   "website": "Letsbuyhealthcare.com",
   "whitepaper": "https://letsbuyhealthcare.com/about-us",
   "explorers": [
@@ -48,8 +47,8 @@
       "url": "https://www.linkedin.com/company/letsbuyhealthcare/posts/?feedView=all&viewAsMember=true"
     }
   ],
-  "team": [],
-  "mainCategory": "",
+  "team": "",
+  "mainCategory": "RWA",
   "categories": [
     "Stablecoin",
     "Enterprise",
