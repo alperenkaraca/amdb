@@ -1,9 +1,9 @@
 {
   "id": "f6ewGNYxGRjQ1SFfhL2tiHCMHzz9AHdTuPe11dRNarGbp3dES",
   "name": "Letsbuyhealthcare",
-  "description": "Providing a fast affordable way to access and prepare for the cost of private healthcare",
+  "description": "Deneme",
   "logo": "Letsbuyhealthcare",
-  "primaryColor": "#943AA6",
+  "primaryColor": "#000000",
   "permissionless": true,
   "private": false,
   "chains": [
@@ -18,7 +18,6 @@
       "rpcUrl": "https://subnets.avax.network/letsbuyhc/mainnet/rpc"
     }
   ],
-  "assets": [],
   "website": "Letsbuyhealthcare.com",
   "whitepaper": "https://letsbuyhealthcare.com/about-us",
   "explorers": [
@@ -49,7 +48,7 @@
     }
   ],
   "team": [],
-  "mainCategory": "",
+  "mainCategory": "RWA",
   "categories": [
     "Stablecoin",
     "Enterprise",
