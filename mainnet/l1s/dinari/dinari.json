@@ -1,46 +1,33 @@
 {
   "id": "2Ee4oBUute1PV5XaeS4b256eLH98r4NE8YgzX5nSX4cUxvtgre",
   "name": "Dinari",
-  "description": "Dinari delivers on-demand tokenization, providing seamless and scalable access to U.S. public markets with built-in compliance frameworks.",
-  "logo": "https://cdn.prod.website-files.com/656fd13bce08f2dc3bc50573/657085889670bafa97d34234_dinari-logo-black.svg",
-  "primaryColor": "#000000",
+  "description": "alp",
+  "logo": "https://cdn.snowpeer.io/dinari.png",
+  "primaryColor": "#07846d",
   "permissionless": true,
   "private": false,
-  "chains": [
-    {
-      "id": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
-      "name": "DinariFinancialNetwork",
-      "description": "",
-      "evmId": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
-      "vmID": "X8VLp41j7X8ZnJaSZner5275w7qpKnvdruUQaWTu3cvK7hCih",
-      "vmName": "EVM",
-      "explorerUrl": "https://subnets.avax.network/dinari",
-      "rpcUrl": "https://subnets.avax.network/dinari/mainnet/rpc"
-    }
-  ],
-  "assets": [],
-  "website": "https://dinari.com/",
-  "whitepaper": "https://tr.ee/KZMRdip0fP",
+  "chains": [],
+  "website": "https://dinari.com",
+  "whitepaper": "",
   "explorers": [
     {
-      "name": "subnets.avax.network",
-      "url": "https://subnets.avax.network/dinari"
+      "name": "",
+      "url": ""
     }
   ],
   "forum": "",
-  "git": "https://github.com/dinaricrypto/",
-  "docs": "https://tr.ee/lVE9rAFNd_",
+  "git": "",
+  "docs": "",
   "socials": [
     {
       "name": "Twitter",
-      "url": "https://x.com/DinariGlobal"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/company/dinari-global/"
+      "url": ""
     }
   ],
   "team": [],
   "mainCategory": "FINANCE",
-  "categories": []
+  "categories": [
+    "FINANCE",
+    "RWA"
+  ]
 }
