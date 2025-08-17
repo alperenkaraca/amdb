@@ -1,0 +1,37 @@
+{
+  "id": "BCDGWbjqYBJLsXEzHNc2qy9VYPTrF3aGaSMbTGyjn7qJ7RxH8",
+  "name": "Growfitter",
+  "description": "Growfitter pioneers the RWA rewards space, combining AI optimization with verifiable real-world benefits - from luxury goods to yield-generating assets.",
+  "logo": "https://www.growfitter.com/images/logo-orange.svg",
+  "primaryColor": "#000000",
+  "permissionless": true,
+  "private": false,
+  "chains": [],
+  "assets": [],
+  "website": "https://www.growfitter.com/",
+  "whitepaper": "",
+  "explorers": [
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "forum": "",
+  "git": "",
+  "docs": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://x.com/growfitter?lang=en"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/growfitter.com/?originalSubdomain=in"
+    }
+  ],
+  "team": [],
+  "mainCategory": "OTHER",
+  "categories": [
+    "REWARD"
+  ]
+}
