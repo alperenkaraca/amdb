@@ -1,26 +1,38 @@
 {
   "id": "2Ypm6RVhddu5Ps8DEbb35Y1PgX4uXE76yyxn6JMhnZy8ftAFLW",
   "name": "Blockticity",
-  "description": "Verification layer for digital conformity assessment. Making trade documents tamper-evident, standards-aligned, and AI-verifiable. Trustless Trade at Scale.",
+  "description": "denemes",
   "logo": "https://cdn.snowpeer.io/blockticity.png",
-  "primnaryColor": "#089CA2",
-  "categories": ["CERTIFICATION"],
+  "primaryColor": "#089CA2",
+  "permissionless": true,
+  "private": false,
+  "chains": [],
+  "website": "https://blockticity.io",
+  "whitepaper": "",
+  "explorers": "",
+  "forum": "",
+  "git": "",
+  "docs": "",
+  "socials": [
+    {
+      "name": "X",
+      "url": "https://twitter.com/blockticity",
+      "_id": "68a1fca2dabaf22dce304fd1"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/blockticity/about/?viewAsMember=true",
+      "_id": "68a1fca2dabaf22dce304fd2"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/blockticity1",
+      "_id": "68a1fca2dabaf22dce304fd3"
+    }
+  ],
+  "team": "",
   "mainCategory": "CERTIFICATION",
-  "links": {
-    "website": "https://blockticity.io",
-    "socials": [
-      {
-        "name": "X",
-        "url": "https://twitter.com/blockticity"
-      },
-      {
-        "name": "Linkedin",
-        "url": "https://www.linkedin.com/company/blockticity/about/?viewAsMember=true"
-      },
-      {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/blockticity1"
-      }
-    ]
-  }
+  "categories": [
+    "CERTIFICATION"
+  ]
 }
