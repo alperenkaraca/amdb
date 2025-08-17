@@ -9,7 +9,7 @@
   "chains": [],
   "website": "https://blockticity.io",
   "whitepaper": "",
-  "explorers": "",
+  "explorers": [],
   "forum": "",
   "git": "",
   "docs": "",
@@ -30,7 +30,7 @@
       "_id": "68a1fca2dabaf22dce304fd3"
     }
   ],
-  "team": "",
+  "team": [],
   "mainCategory": "CERTIFICATION",
   "categories": [
     "CERTIFICATION"
