@@ -1,0 +1,58 @@
+{
+  "id": "f6ewGNYxGRjQ1SFfhL2tiHCMHzz9AHdTuPe11dRNarGbp3dES",
+  "name": "Letsbuyhealthcare",
+  "description": "Providing a fast affordable way to access and prepare for the cost of private healthcare",
+  "logo": "Letsbuyhealthcare",
+  "primaryColor": "#943AA6",
+  "permissionless": true,
+  "private": false,
+  "chains": [
+    {
+      "id": "29vwJsYDCuAHpCCGkvvWh8K2MiHAyCXYKUNobCMg4c7ZQvSkJu",
+      "name": "Letsbuyhealthcare",
+      "description": "",
+      "evmId": "50776",
+      "vmID": "aeSb41aMZVFgXRQNPGzyX5b2hzxGfskasqGxxvCVmv726yXec",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/letsbuyhc",
+      "rpcUrl": "https://subnets.avax.network/letsbuyhc/mainnet/rpc"
+    }
+  ],
+  "assets": [],
+  "website": "Letsbuyhealthcare.com",
+  "whitepaper": "https://letsbuyhealthcare.com/about-us",
+  "explorers": [
+    {
+      "name": "Public RPC  https:",
+      "url": "Public RPC  https://subnets.avax.network/letsbuyhc/mainnet/rpc"
+    },
+    {
+      "name": "Explorer  https:",
+      "url": "Explorer  https://subnets.avax.network/letsbuyhc"
+    },
+    {
+      "name": "Gassless RPC  https:",
+      "url": "Gassless RPC  https://gas-relayer.avax.network/letsbuyhc/mainnet/rpc"
+    }
+  ],
+  "forum": "",
+  "git": "",
+  "docs": "https://heyzine.com/flip-book/948d162c7f.html",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://x.com/Letsbuyhealth"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/letsbuyhealthcare/posts/?feedView=all&viewAsMember=true"
+    }
+  ],
+  "team": [],
+  "mainCategory": "",
+  "categories": [
+    "Stablecoin",
+    "Enterprise",
+    "RWA"
+  ]
+}
