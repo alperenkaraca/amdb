@@ -6,7 +6,17 @@
   "primaryColor": "#07846d",
   "permissionless": true,
   "private": false,
-  "chains": [],
+  "chains": [
+    {
+      "id": "C5GXnNHNEfDxUydtjZ5B5J6XspdAZJGLsX3u4wxCXZgE3N4Gq",
+      "name": "DinariFinancialNetwork",
+      "vmID": "X8VLp41j7X8ZnJaSZner5275w7qpKnvdruUQaWTu3cvK7hCih",
+      "evmId": "202110",
+      "vmName": "EVM",
+      "explorerUrl": "https://subnets.avax.network/dinari",
+      "rpcUrl": "https://subnets.avax.network/dinari/mainnet/rpc"
+    }
+  ],
   "website": "https://dinari.com/",
   "whitepaper": "https://tr.ee/KZMRdip0fP",
   "explorers": [
