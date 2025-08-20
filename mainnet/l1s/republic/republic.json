@@ -1,0 +1,26 @@
+{
+  "id": "hQmBhZEf78SgYasnNkjFLnRewn2cntY7C21sPEnhdaKnKUrhi",
+  "name": "Republic",
+  "description": "alperrren",
+  "logo": "",
+  "primaryColor": "",
+  "permissionless": true,
+  "private": false,
+  "chains": [
+    {
+      "id": "WxE3tFpDTgw8VWKf3Yt5zW2Mv7mzipXG6Z2giKYXybcLxRAER",
+      "name": "Republic Chain",
+      "vmID": "srEXiWaHuhNyGwPUi444Tu47ZEDwxTWrbQiuD7FmgSAQ6X7Dy"
+    }
+  ],
+  "website": "",
+  "whitepaper": "",
+  "explorers": [],
+  "forum": "",
+  "git": "",
+  "docs": "",
+  "socials": [],
+  "team": [],
+  "mainCategory": "",
+  "categories": []
+}
