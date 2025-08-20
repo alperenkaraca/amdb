@@ -1,7 +1,7 @@
 {
   "id": "2Ee4oBUute1PV5XaeS4b256eLH98r4NE8YgzX5nSX4cUxvtgre",
   "name": "Dinari",
-  "description": "Dinari delivers on-demand tokenization, providing seamless and scalable access to U.S. public markets with built-in compliance frameworks.",
+  "description": "alp",
   "logo": "https://cdn.prod.website-files.com/656fd13bce08f2dc3bc50573/657085889670bafa97d34234_dinari-logo-black.svg",
   "primaryColor": "#07846d",
   "permissionless": true,
@@ -28,7 +28,7 @@
       "url": "https://www.linkedin.com/company/dinari-global/"
     }
   ],
-  "team": "",
+  "team": [],
   "mainCategory": "FINANCE",
   "categories": [
     "FINANCE",
