@@ -1,17 +1,17 @@
 {
-  "id": "fifa",
+  "id": "deneme",
   "type": "INFRA",
-  "name": "fifa",
+  "name": "deneme",
   "website": "https://fifa.center",
   "description": "Appchain-as-a-Service platform leveraging Avalanche L1s.",
   "associatedL1s": [
     {
       "id": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
-      "name": "fifa"
+      "name": "deneme"
     },
     {
       "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
-      "name": "fifa PHI"
+      "name": "deneme PHI"
     }
   ]
 }
