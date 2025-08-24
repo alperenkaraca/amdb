@@ -1,0 +1,17 @@
+{
+  "id": "fifa",
+  "type": "INFRA",
+  "name": "fifa",
+  "website": "https://fifa.center",
+  "description": "Appchain-as-a-Service platform leveraging Avalanche L1s.",
+  "associatedL1s": [
+    {
+      "id": "2Mi7V6HwKCEPxXTRG87o5tHACECkMPnJKP6UA3w1ote7j46GYT",
+      "name": "fifa"
+    },
+    {
+      "id": "axp7DUSPvFghTM883ug2B8btAReBAACxD1VyENmRDStH4Lfed",
+      "name": "fifa PHI"
+    }
+  ]
+}
