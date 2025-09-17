@@ -1,0 +1,37 @@
+{
+  "id": "BCDGWbjqYBJLsXEzHNc2qy9VYPTrF3aGaSMbTGyjn7qJ7RxH8",
+  "name": "Growfitter",
+  "description": "Denemee",
+  "logo": "https://www.growfitter.com/images/logo-orange.svg",
+  "primaryColor": "#f93200",
+  "permissionless": true,
+  "private": false,
+  "chains": [
+    {
+      "id": "2PdUCtQocNDvbVWy8ch4PdaicTHA2h5keHLAAPcs9Pr8tYaUg3",
+      "name": "Growfitter",
+      "vmID": "YU23mTtdpEr64SyozDF475kWVhqQLjDhX81d3huxiL1UUJaZj"
+    }
+  ],
+  "website": "https://www.growfitter.com/",
+  "whitepaper": "",
+  "explorers": [],
+  "forum": "",
+  "git": "",
+  "docs": "",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://x.com/growfitter?lang=en"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/growfitter.com/?originalSubdomain=in"
+    }
+  ],
+  "team": [],
+  "mainCategory": "FI",
+  "categories": [
+    "REWARD"
+  ]
+}
